@@ -1,8 +1,9 @@
-1. Установка
-На Debian/Ubuntu/Astra Linux:
- bash
+## 1. Установка  
+#### На Debian/Ubuntu/Astra Linux:
+```bash
 sudo apt update
 sudo apt install tshark
+```
  Во время установки может задать вопрос о разрешении обычным пользователям перехватывать пакеты. Для удобства можно ответить «Да".
 
 На CentOS/RHEL/Fedora: 
