@@ -1,6 +1,7 @@
 ## 1. Установка  
 #### На Debian/Ubuntu/Astra Linux:
-```bash
+```
+bash
 sudo apt update
 sudo apt install tshark
 ```
