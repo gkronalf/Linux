@@ -7,11 +7,13 @@ sudo apt install tshark
 ```
  Во время установки может задать вопрос о разрешении обычным пользователям перехватывать пакеты. Для удобства можно ответить «Да".
 
-На CentOS/RHEL/Fedora: 
-bash
+#### На CentOS/RHEL/Fedora: 
+  
+```bash
 sudo dnf install wireshark-cli   
 # или                                           
 sudo yum install wireshark-cli 
+```
 
 2. tshark  для захвата трафика на порту udp 514
 
